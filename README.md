@@ -1,4 +1,8 @@
 # pubsub by http
+## Clone my repository
+```
+git clone https://github.com/Future-Outlier/pubsub
+```
 ## Start a session in Terminal for Subscriber
 ```
 go run ./sub/main.go ./sub/person.pb.go
